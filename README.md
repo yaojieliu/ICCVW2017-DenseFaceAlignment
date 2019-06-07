@@ -1,7 +1,7 @@
 # ICCVW2018-DenseFaceAlignment
 Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu
 
-![alt text](http://www.cse.msu.edu/~liuyaoj1/images/project-iccvw17.pdf)
+![alt text](http://www.cse.msu.edu/~liuyaoj1/images/project-iccvw17.png)
 
 ## Setup
 1. Download the [Basel Face Model (BFM)](http://faces.cs.unibas.ch/bfm/main.php?nav=1-0&id=basel_face_model)
