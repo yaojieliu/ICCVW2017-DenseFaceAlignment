@@ -3,7 +3,7 @@ Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu
 
 ## Setup
 1. Download the [Basel Face Model (BFM)](http://faces.cs.unibas.ch/bfm/main.php?nav=1-0&id=basel_face_model)
-2. unzip the file into the DeFA folder
+2. unzip the file into the root folder
 
 ## Testing
 Run the "test.m". 
