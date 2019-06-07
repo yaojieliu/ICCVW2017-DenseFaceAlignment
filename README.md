@@ -3,6 +3,8 @@ Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu
 
 ![alt text](http://www.cse.msu.edu/~liuyaoj1/images/project-iccvw17.png)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=GjwpvHKHf9U)
+
 ## Setup
 1. Download the [Basel Face Model (BFM)](http://faces.cs.unibas.ch/bfm/main.php?nav=1-0&id=basel_face_model)
 2. unzip the file into the root folder
