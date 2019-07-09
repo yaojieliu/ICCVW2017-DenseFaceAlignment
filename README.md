@@ -1,4 +1,4 @@
-# ICCVW2018-DenseFaceAlignment
+# ICCVW2018-DenseFaceAlignment ([Demo](https://www.youtube.com/watch?v=GjwpvHKHf9U))
 Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu
 
 ![alt text](http://www.cse.msu.edu/~liuyaoj1/images/project-iccvw17.png)
@@ -9,12 +9,14 @@ Yaojie Liu, Amin Jourabloo, William Ren, Xiaoming Liu
 
 ## Testing
 Run the "test.m". 
+
 If you are the first time to use the code, please configure and run the "vl_compilenn.m" according to your system configurations.
 
 To note:
+
 The testing code is tested on Matlab 2016b/2017a/2017b @ Ubuntu 16.04 with GPU. If you are using Windows system, please
 change the slash in the file path to backslash to match the Windows path naming.
-The code is built on MatConvNet ("http://www.vlfeat.org/matconvnet"). Please refer to their web page for any compiling issues.
+The code is built on [MatConvNet](http://www.vlfeat.org/matconvnet). Please refer to their web page for any compiling issues.
 
 ## Acknowledge
 Please cite the paper:
